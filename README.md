@@ -1,2 +1,3 @@
 # New-one
-This is my first respository
+This is my first respository.
+Author-Shravanth c
